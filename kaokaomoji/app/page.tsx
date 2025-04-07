@@ -3,7 +3,7 @@
 
 import Main from "@/components/Main";
 import List from "@/components/List";
-import Kaomojis from "@/data/kaomojis.json"
+
 export default function Home() {
   return (
     <main className = "min-h-screen bg-[#ffecb6] ">
